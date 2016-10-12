@@ -1,0 +1,12 @@
+h2.intro {
+  font-size: 100px;
+}
+
+p.intro {
+  font-style: sans-serif;
+}
+
+img.intro {
+  border: 1px solid black;
+  margin-bottom: 20px; 
+}
