@@ -1,12 +1,6 @@
-h2.intro {
-  font-size: 100px;
-}
-
-p.intro {
+.intro {
+  font-size: 16px;
   font-style: sans-serif;
-}
-
-img.intro {
-  border: 1px solid black;
-  margin-bottom: 20px; 
+  color: red;
+  margin-bottom: 20px;
 }
