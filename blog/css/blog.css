@@ -1,0 +1,13 @@
+.blog-post {
+  color: blue;
+  font-family: arial;
+}
+
+.about-me {
+  color: green;
+}
+
+li {
+  color: red;
+  font-variant: small-caps;
+}
